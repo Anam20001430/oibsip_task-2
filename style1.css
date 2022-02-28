@@ -1,0 +1,30 @@
+.containerHome{
+	background-color:#728fce;
+	border: 2px solid red;
+	}
+
+
+
+.containerHome h1{text-align:center;}
+.containerHome h2{text-align:right;width: 94%; height:100px;}
+.containerHome h3{text-align:right;}
+.containerHome h4{text-align:left;}
+.containerHome h5{text-align:center;}
+
+
+
+
+
+
+
+section{ display: flex; }
+
+.leftside { width: 100%; height: auto;
+         }
+ 
+
+
+.leftside img{  width: 600px;  height: 500px; }
+
+
+
